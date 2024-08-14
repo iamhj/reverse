@@ -1,6 +1,7 @@
 # reverse
-Reverse Engineering
+- Reverse Engineering
 
+- pull requests
 ```shell
 git remote add upstream https://github.com/iamhj/reverse.git
 git checkout -b another
